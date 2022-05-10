@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently enrolled in <a href='https://www.alphaedtech.org.br/'>Alpha EdTech</a> code academy
 - 🎓 ... also enrolled at <a href='http://www.uem.br/'>Universidade Estadual de Maringá</a> - Computer Science
-- 🌱 Going deep in Machine Learning and its surroundings
+- 🌱 Going deep into Machine Learning and its surroundings
 - 👯 Looking forward to collaborate on DS/ML projects in the near future
 - 🤔 Mentoring is welcome
 - 📫 How to reach me: dudeful@outlook.com
