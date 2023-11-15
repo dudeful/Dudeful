@@ -1,1 +1,1 @@
-**this is a legacy account
+**deprecated
